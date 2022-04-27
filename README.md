@@ -1,2 +1,2 @@
 # BubbleDuck2D
-BubbleDuck2D_Unity ver
+Bubble Duck 2D - Unity 2019.4.36f1 ver
